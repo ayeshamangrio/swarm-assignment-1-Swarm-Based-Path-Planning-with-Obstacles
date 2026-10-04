@@ -1,4 +1,6 @@
-# Swarm-Based Path Planning with Obstacles (PSO)
+# Swarm Assignment 1: Swarm-Based Path Planning with Obstacles
+
+Implement PSO to find a path from a start point to a goal point on a 2D grid, avoiding obstacles.
 
 **Swarm Intelligence Lab – Assignment 1** · Bahria University, Dept. of Computer Science
 
