@@ -58,7 +58,7 @@ Green = start (S), red = goal (G), black = obstacles, blue = PSO path.
 ## How to run
 ```bash
 git clone <your-repo-url>
-cd swarm-pathplanning-01-13622-060
+cd swarm-assignment-1-Swarm-Based-Path-Planning-with-Obstacles
 pip install -r requirements.txt
 python main.py            # saves results/path.png and results/convergence.png
 python main.py --show     # also opens the matplotlib window
@@ -77,10 +77,4 @@ docs/              hand-drawn flow diagram
 ```
 
 ## Hand-drawn flow diagram
-Before submitting, draw the algorithm flow on paper, photograph it clearly, and save the photo as `docs/flow_diagram.jpg`. The photo must be your own hand-drawn diagram; it is not included yet.
-
-Then embed it here:
-
-```markdown
 ![Hand-drawn PSO flow diagram](docs/flow_diagram.jpg)
-```
